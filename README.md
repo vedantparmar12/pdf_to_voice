@@ -25,7 +25,7 @@ A production-ready HIPAA-compliant medical data access control system with role-
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vedantparmar12/HealthSecure
+git clone https://github.com/vedantparmar12/HealthSecure.git
 cd healthsecure
 ```
 
